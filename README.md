@@ -11,3 +11,9 @@ Information on hardware available for projects
 |16x2 LCD | 16x2 Text LCD |
 |TSOP1838 | IR Remote Sensor |
 |HX711    | Load Cell Amplifier|
+|DHT11    | Temperature & Humidity Sensor |
+|MPU6050  | Accelerometer & Gyroscope |
+|RCWL0516 | Radar based movement detector |
+|ACS712   | Current Sensor |
+|YF-S20   | Fluid flow rate sensor |
+|L293D    | Motor Driver |
